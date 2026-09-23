@@ -1,0 +1,6 @@
+{
+  "name": "Elegance by Fatima - Customized Gifts",
+  "description": "Premium customized gifts and bespoke luxury hampers, crafted with love for the people who matter most.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
